@@ -1,0 +1,9 @@
+1) Un commit es el mensaje que le queremos poner al archivo de texto.
+
+2) Una rama es donde vamos a preparar el archivo para poder subirlo a nuestro repositorio.
+ Tenemos que usar "main" porque es el nombre de la rama que creamos y porque es la rama inicial.
+
+3) Github sirve para poder tener repositorios y dentro de esos repositorios podemos subir archivos de textos. Sirve tambien para que se guarden las cosas y asi poder usarlas en otra computadura (con nustra cuenta).
+
+4) "git remote add origin" sirva para proparar el archivo de texto para ser commitiado.
+ Si no lo usamos nos va a dar error y no vamos a poder subir el archivo de texto a nuestro repositorio.
